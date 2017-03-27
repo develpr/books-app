@@ -1,0 +1,9 @@
+system-config.js*
+npm-debug.log
+node
+app/**/*.js
+app/**/*.map
+node_modules
+bower_components
+aot/*
+dist/*
